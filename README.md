@@ -9,4 +9,4 @@ Kali VM	Kali Linux	Attacker machine
 Windows VM	Windows 10	Target machine
 
 4. Screenshots
-
+[] Screenshot 2026-11-05 125247.png
