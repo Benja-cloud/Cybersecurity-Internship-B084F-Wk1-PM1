@@ -7,3 +7,6 @@ Set up a virtual lab with Kali Linux and Windows 11, connect them through the NA
 Machine	OS	Role	IP Address
 Kali VM	Kali Linux	Attacker machine
 Windows VM	Windows 10	Target machine
+
+4. Screenshots
+
